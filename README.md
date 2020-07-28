@@ -1,12 +1,17 @@
 # MTB_Trail_Model
 GIS model for sustainable single track mountain bike trail development
 
-Description: This model is designed to call out optimal trail conditions on the ground for the construction of sustainable single track mountain bike trails
-1 or 3 meter resolution can be used 
-Parameters can be altered for optimal ground conditions depending on site
-Points of interest can be altered to highlight areas within the land parcel in question
-Comes as a zipped file geodatabase 
-Model within the toolbox. Original input data not included due to file size.
+Description: This model is designed to call out optimal trail conditions on the ground for the construction of sustainable single track mountain bike trails.
+
+1 or 3 meter resolution can be used.
+
+Parameters can be altered for optimal ground conditions depending on site.
+
+Points of interest can be altered to highlight areas within the land parcel in question.
+
+Comes as a zipped file geodatabase. 
+
+Model within toolbox. Original input data not included due to file size.
 
 ArcGIS is needed with a spatial analyst license
 
