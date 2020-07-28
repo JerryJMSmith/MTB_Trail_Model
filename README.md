@@ -15,12 +15,12 @@ Digital Elevation Model:
 Minnesota Department of Natural Resources (MNDNR), International Water Institute. LIDAR Block J (2009) 
 
 Land Cover:
-United States Geological Survey (USGS) National Land Cover Database, 2006
+United States Geological Survey (USGS) National Land Cover Database, (2006)
 
 Soil Drainage:
-United States Department of Agriculture (USDA), Natural Resources Conservation Service. ARC Interchange Files for the Survey of Beltrami County, 2006
+United States Department of Agriculture (USDA), Natural Resources Conservation Service. ARC Interchange Files for the Survey of Beltrami County, (2006)
 
 Soil Texture:
-United States Department of Agriculture (USDA), Natural Resources Conservation Service. ARC Interchange Files for the Survey of Beltrami County, 2006
+United States Department of Agriculture (USDA), Natural Resources Conservation Service. ARC Interchange Files for the Survey of Beltrami County, (2006)
 
 Outputs: optimal polyline for sustainable trail
