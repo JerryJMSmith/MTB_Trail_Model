@@ -6,11 +6,11 @@ Description: This model is designed to call out optimal trail conditions on the 
 Parameters can be altered for optimal ground conditions depending on site
 Points of interest can be altered to highlight areas within the land parcel in question
 Comes as a zipped file geodatabase 
-Model within the toolbox can be run using data included for Hobson Forest in Beltrami County, MN
+Model within the toolbox. Original input data not included due to file size.
 
 ArcGIS is needed with a spatial analyst license
 
-Inputs: 
+Original Inputs used: 
 Digital Elevation Model: 
 Minnesota Department of Natural Resources (MNDNR), International Water Institute. LIDAR Block J (2009) 
 
